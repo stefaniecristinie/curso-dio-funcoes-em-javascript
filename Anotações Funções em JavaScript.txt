@@ -1,0 +1,31 @@
+Objeto "arguments": 
+-Infinity = mandar números positivos ou negativos.
+
+Arrays:
+- Spread = (...numbers). numbers = nome da variável. Chamando a função.
+- Rest = (...args). args = argumentos. Declarando a função.
+
+If/else:
+- 2ª imagem: do meio é boas práticas, a última é para mostrar que nem sempre precisa do else.
+- 3ª imagem: if dentro do outro.
+
+Switch/case:
+- "1" = vai entender como diferente.
+- Comparação de tipo e valor.
+
+for:
+- i = índice.
+
+Do...while:
+- 2ª imagem: faz diferente do while.
+
+This:
+- fullName é um método, sempre que uma função está dentro de um objeto, é um método.
+- this = pessoa.
+- {} = vazio.
+- evento = botão.
+- Diferença entre call e apply: call é separado por vírgulas, apply é dentro de um array [].
+
+Arrow functions: 
+- Sintaxe. 
+- Arrow functions (=>). Não precisa escrever return. 
